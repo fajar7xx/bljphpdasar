@@ -1,0 +1,13 @@
+sudah sampai dimana :
+  ✔ upload @done (19-03-22 10:39)
+  ✔ registrasi @done (19-03-22 11:54)
+  ✔ login @done (19-03-22 11:54)
+  ✔ session @done (19-03-22 17:11)
+  ✔ cookie (remember me) untuk login sistem @done (19-03-23 11:07)
+  ✔ pagination @done (19-03-23 12:00)
+  ✔ live search (ajax) @done (19-03-25 12:11)
+  ✔ pdf reporting @done (19-03-26 10:31)
+ 
+
+ permasalahan :
+   ☐ jika menggnakan pagination belum sinkron dengan search artinya saat search dia hanya akan mencari pada bagian pagination tidak mencari secara keseluruhan
